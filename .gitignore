@@ -1,4 +1,6 @@
 # libs and build directories
-ModName/libs
-ModName/bin
-ModName/obj
+SmirkCat/libs
+SmirkCat/bin
+SmirkCat/obj
+
+build.sh
